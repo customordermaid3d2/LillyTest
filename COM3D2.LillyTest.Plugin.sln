@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.438
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LillyTest", "LillyTest\LillyTest.csproj", "{B8CEC639-0CFE-4548-B0B8-E79780D9727B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COM3D2.LillyTest.Plugin", "LillyTest\COM3D2.LillyTest.Plugin.csproj", "{B8CEC639-0CFE-4548-B0B8-E79780D9727B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
