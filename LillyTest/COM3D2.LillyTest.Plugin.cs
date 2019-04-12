@@ -8,7 +8,7 @@ using UnityInjector.Attributes;
 
 namespace COM3D2.LillyTest.Plugin
 {
-    [PluginFilter("COM3D2x64"), PluginName("COM3D2.LillyTest.Plugin"), PluginVersion("1.0.0.1")]
+    [PluginFilter("COM3D2x64"), PluginName("COM3D2.LillyTest.Plugin"), PluginVersion("1.0.0.2")]
     public class LillyTest : UnityInjector.PluginBase
     {
         public static string pluginName = "LillyTest";
